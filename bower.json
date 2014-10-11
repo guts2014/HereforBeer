@@ -2,11 +2,10 @@
   "name": "terrorismapp",
   "version": "0.0.0",
   "dependencies": {
-    "angular-bootstrap": "~0.10.0",
-    "angular-resource": "~1.2.13",
-    "angular-route": "~1.2.13",
-    "angular": "~1.2.13",
-    "bootstrap-css": "~3.0.0",
-    "jquery": "~2.1.0",
+    "angular": "1.2.13",
+    "bootstrap-css": "3.0.0",
+    "jquery": "2.1.0",
+    "angular-route": "1.2.13",
+    "angular-resource": "1.2.13"
   }
 }
