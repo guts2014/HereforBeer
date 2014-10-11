@@ -1,0 +1,1 @@
+WeoponTypeDict = {1:"Biological", 2:"Chemical", 3:"Radiological", 4:"Firearms", 5:"Explosives/Bombs/Dynamite", 6:"Fake Weapons", 7:"Incendiary", 8:"Melee", 9:"Vehicle (not to include vehicle-borne explosives, i.e., car or truck bombs)", 10:"Sabotage Equipment", 11:"Other", 12:"Unknown"}
