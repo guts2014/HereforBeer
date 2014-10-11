@@ -64,5 +64,4 @@ node_modules
 terrorismenv/
 .editorconfig
 npm-debug.log
-.jshintrc
-.bowerrc
+.jshintrc	
